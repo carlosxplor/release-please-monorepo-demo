@@ -1,10 +1,12 @@
 {
     "packages": {
       "apps/web": {
-        "release-type": "node"
+        "release-type": "node",
+        "package-name": "web"
       },
       "apps/docs": {
-        "release-type": "node"
+        "release-type": "node",
+        "package-name": "docs"
       }
     }
   }
