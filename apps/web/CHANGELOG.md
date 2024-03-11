@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/carlosxplor/release-please-monorepo-demo/compare/web-v1.2.0...web-v1.3.0) (2024-03-11)
+
+
+### Features
+
+* **wrong:** feature 6 web son scope incorrecto ([7fa8035](https://github.com/carlosxplor/release-please-monorepo-demo/commit/7fa803503d093cdb4d5e490e4c229bbbc2820561))
+
 ## [1.2.0](https://github.com/carlosxplor/release-please-monorepo-demo/compare/web-v1.1.0...web-v1.2.0) (2024-03-11)
 
 
