@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/carlosxplor/release-please-monorepo-demo/compare/docs-v1.1.0...docs-v1.2.0) (2024-03-11)
+
+
+### Features
+
+* agregando feature 3 de docs sin commit ([4adf8f1](https://github.com/carlosxplor/release-please-monorepo-demo/commit/4adf8f12e91a9a6ae6963e530255d333e819ca23))
+
 ## [1.1.0](https://github.com/carlosxplor/release-please-monorepo-demo/compare/docs-v1.0.0...docs-v1.1.0) (2024-03-11)
 
 
