@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/carlosxplor/release-please-monorepo-demo/compare/web-v1.1.0...web-v1.2.0) (2024-03-11)
+
+
+### Features
+
+* **web:** agregando feature 4 ([c893e10](https://github.com/carlosxplor/release-please-monorepo-demo/commit/c893e104d5f3a5d43f6ea20abb63bf9679cd2778))
+* **web:** agregando feature 5 ([44ca70f](https://github.com/carlosxplor/release-please-monorepo-demo/commit/44ca70f523969898aa5731214b91f56d9c93a3e4))
+
 ## [1.1.0](https://github.com/carlosxplor/release-please-monorepo-demo/compare/web-v1.0.0...web-v1.1.0) (2024-03-11)
 
 
